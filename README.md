@@ -1,3 +1,8 @@
+v4.9 10.5281/zenodo.18185752 (https://zenodo.org/records/18185752)
+
+v5.0 10.5281/zenodo.18185954 (https://zenodo.org/records/18185954)
+
+
 I want to clarify that this repository is just an update of the previous vorticidad-cosmica-datos repository. 
 
 You just need to update rust/ and in that same folder run maturin and the pip installer.  
