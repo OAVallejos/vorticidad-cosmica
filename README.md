@@ -9,7 +9,7 @@ You just need to update rust/ and in that same folder run maturin and the pip in
 
 We continue to use the two previous databases, SDSS and DESI. More Pantheon+ in the data/ folder.
 
-Run from first to last. (This is the order) 
+Run from first to last. (This is the order) annex (III) and annex (IV).
 
 ● SDSS_VS_DESI_QUALITY_ANALYSIS-v4.py
 
@@ -53,6 +53,10 @@ Run from first to last. (This is the order)
 ● MCMC_DIAGNOSTICS_DESI_REAL.py
 
 ● VALIDATE_DESI_MCMC_CONSISTENCY.py
+
+annex (V)
+
+● VPM_SCIENTIFIC.py
 
 
 I hope you have a lot of fun with the "possible" new discoveries and conclusions.  
